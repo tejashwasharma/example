@@ -27,6 +27,12 @@ git config user.name "tejashwasharma" --global
 git config user.email "tejsharma407@gmail.com" --global
 ```
 
+### Checkout to branch
+```git checkout branch_name```
+
+### Checkout to branch
+```git branch new_branch_name```
+
 ### Steps to push code
 - ```git add path-to-file.extension```(particular file only)
     or
